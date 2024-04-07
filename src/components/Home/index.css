@@ -1,0 +1,35 @@
+.home-bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.welcome-text-container {
+  text-align: center;
+}
+.welcome-heading {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 42px;
+  font-weight: bold;
+}
+.welcome-description {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+.register-button {
+  width: 80px;
+  background-color: #3b82f6;
+  border: none;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 14px;
+  padding: 10px;
+  border-radius: 6px;
+}
+.meetup-image {
+  width: 60%;
+  margin-top: 20px;
+}
